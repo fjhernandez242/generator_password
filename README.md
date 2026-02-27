@@ -21,4 +21,5 @@ El proyecto esta desplegado en un servidor VPS utilizando:
 * Aplication Server: Gunicorn
 * SSL
 
+![Principal](https://github.com/fjhernandez242/generator_password/blob/main/generador_contrasena.png)
 
